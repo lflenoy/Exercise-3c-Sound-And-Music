@@ -10,6 +10,9 @@ Move the paddle using the W and A. Help the ball break all the bricks before you
 
 
 ## Implementation
+- Wrote sound and music and saved it to folders. Started the music (and loop it) when the game begins
+ Connected the sound effects to collisions in the game: paddle, bricks, and when the ball falls off the screen
+ - Added a comet trail to the ball
 
 Built using Unity 2022.3.45f
 
@@ -26,4 +29,4 @@ Adding a face, Comet trail, Music and Sound, Shaders, etc.
 
 ## Created by 
 
-Nathan Mishler
+Leya Flenoy
